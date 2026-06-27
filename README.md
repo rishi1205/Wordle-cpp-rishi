@@ -76,17 +76,6 @@ g++ wordle.cpp -std=c++17 -o wordle
 
 ---
 
-## Future Improvements
-
-- Colored on-screen keyboard
-- Statistics (Games Played, Win %, Streak)
-- Daily Wordle mode
-- Hard mode
-- Save/Load game statistics
-- Larger official dictionary
-
----
-
 ## Author
 
 **Rishi Trivedi**
